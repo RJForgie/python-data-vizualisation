@@ -1,0 +1,20 @@
+Date: Sat, 11 Nov 2017 16:11:35 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: cfgfx5ed0olooln3u38heuo49avdlya
+Content-Disposition: inline;filename*=UTF-8''George_Seferis.JPG
+Last-Modified: Sun, 28 May 2017 12:12:04 GMT
+Etag: b6dde9dacae8e6d120619a407dffb527
+X-Timestamp: 1495973523.11993
+X-Trans-Id: txd174a543a67c477d928c3-005a06a00c
+X-Varnish: 153839674, 64235266 45271889, 59500154 20963525
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Age: 33066
+X-Cache: cp1062 pass, cp3034 hit/6, cp3035 hit/2
+X-Cache-Status: hit-front
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=11-Nov-2017;https=1
+X-Client-Ip: 86.169.91.147
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

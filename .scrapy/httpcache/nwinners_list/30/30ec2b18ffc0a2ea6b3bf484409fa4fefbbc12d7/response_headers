@@ -1,0 +1,21 @@
+Date: Sat, 11 Nov 2017 12:54:50 GMT
+Content-Type: text/html; charset=utf-8
+Server: mw1270.eqiad.wmnet
+X-Powered-By: HHVM/3.18.6-dev
+X-Content-Type-Options: nosniff
+P3P: CP="This is not a P3P policy! See https://www.wikidata.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Content-Encoding: gzip
+Vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: https://www.wikidata.org/wiki/Q177681
+Last-Modified: Sat, 11 Nov 2017 12:54:50 GMT
+Backend-Timing: D=32147 t=1510404890834851
+X-Varnish: 1008313225, 1027547817, 432925585
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Age: 0
+X-Cache: cp1065 pass, cp3033 pass, cp3042 pass
+X-Cache-Status: pass
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=11-Nov-2017;WMF-Last-Access-Global=11-Nov-2017;https=1
+X-Client-Ip: 86.169.91.147
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate

@@ -1,0 +1,20 @@
+Date: Sat, 11 Nov 2017 16:11:21 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: a0v7in7vv9idjj83g0mz75k6hcrw2vi
+Content-Disposition: inline;filename*=UTF-8''John_Cornforth.jpg
+Last-Modified: Fri, 12 Jun 2015 17:21:00 GMT
+Etag: d8f1560dd11431c234b730b81bf916f6
+X-Timestamp: 1434129659.35510
+X-Trans-Id: tx2c3e2c7265c94107ac4f6-005a05f402
+X-Varnish: 117459861, 235959999 210343582, 66587723 1036589198
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Age: 77094
+X-Cache: cp1062 pass, cp3035 hit/5, cp3035 hit/1
+X-Cache-Status: hit-front
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=11-Nov-2017;https=1
+X-Client-Ip: 86.169.91.147
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

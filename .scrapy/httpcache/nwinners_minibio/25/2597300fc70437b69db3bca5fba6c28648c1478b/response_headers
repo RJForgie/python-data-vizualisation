@@ -1,0 +1,18 @@
+Date: Sat, 11 Nov 2017 16:11:26 GMT
+Content-Type: image/jpeg
+Last-Modified: Thu, 24 Oct 2013 14:03:07 GMT
+Etag: eb78410dd8df7dbc0a155e454c3ef45f
+X-Timestamp: 1382623386.53381
+X-Trans-Id: tx02c1815cfd9a4a27aa3d0-005a05e8da
+X-Varnish: 134444494, 265571555 218929057, 55866275
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Age: 79955
+X-Cache: cp1074 pass, cp3036 hit/8, cp3035 miss
+X-Cache-Status: hit-local
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=11-Nov-2017;https=1
+X-Client-Ip: 86.169.91.147
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

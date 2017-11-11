@@ -1,0 +1,26 @@
+Date: Sat, 11 Nov 2017 12:17:14 GMT
+Content-Type: text/plain; charset=utf-8
+Server: mw1258.eqiad.wmnet
+Cache-Control: s-maxage=3600, must-revalidate, max-age=0
+X-Varnish: 682168743, 27598629 23172279, 409698735 377975975
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+X-Powered-By: HHVM/3.18.6-dev
+X-Language: wikidata
+Content-Encoding: gzip
+P3P: CP="This is not a P3P policy! See https://www.wikidata.org/wiki/Special:CentralAutoLogin/P3P for more info."
+X-Site: wikipedia
+X-Article-Id: 16264857
+X-Content-Type-Options: nosniff
+Last-Modified: Mon, 24 Oct 2016 15:01:07 GMT
+Backend-Timing: D=32784 t=1510397827884017
+Vary: X-Subdomain, Accept-Encoding
+Age: 1201
+X-Cache: cp1054 pass, cp3031 hit/6, cp3042 hit/3
+X-Cache-Status: hit-front
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+Set-Cookie: WMF-Last-Access=11-Nov-2017;Path=/;HttpOnly;secure;Expires=Wed, 13 Dec 2017 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=11-Nov-2017;Path=/;Domain=.wikidata.org;HttpOnly;secure;Expires=Wed, 13 Dec 2017 12:00:00 GMT
+Set-Cookie: GeoIP=GB:SCT:Edinburgh:55.95:-3.20:v4; Path=/; secure; Domain=.wikidata.org
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 86.169.91.147
+Accept-Ranges: bytes

@@ -1,0 +1,18 @@
+Date: Sat, 11 Nov 2017 16:11:31 GMT
+Content-Type: image/gif
+Last-Modified: Thu, 20 Jul 2017 16:47:39 GMT
+Etag: 936f84da91e80a31821060a2e6c6c365
+X-Timestamp: 1500569258.26324
+X-Trans-Id: txe526ef9b542a4dc1b1f74-005a070cf0
+X-Varnish: 85672233, 124367947 116285026, 62739526
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Age: 5186
+X-Cache: cp1063 pass, cp3038 hit/7, cp3035 miss
+X-Cache-Status: hit-local
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=11-Nov-2017;https=1
+X-Client-Ip: 86.169.91.147
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

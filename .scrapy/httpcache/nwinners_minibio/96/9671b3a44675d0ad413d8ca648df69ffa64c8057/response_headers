@@ -1,0 +1,19 @@
+Date: Sat, 11 Nov 2017 16:11:31 GMT
+Content-Type: application/x-www-form-urlencoded
+X-Object-Meta-Sha1Base36: mvztd7sofxqqk9ijpqbvjclm4j8gv5g
+Last-Modified: Thu, 02 Mar 2017 15:50:50 GMT
+Etag: f5920e034581fc2daa80a43b5fd89dde
+X-Timestamp: 1488469849.99245
+X-Trans-Id: tx8c0aa5cf4a114038891bf-005a06fd65
+X-Varnish: 38834102, 253181875 249137159, 66294216
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Age: 9165
+X-Cache: cp1072 pass, cp3035 hit/5, cp3035 miss
+X-Cache-Status: hit-local
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=11-Nov-2017;https=1
+X-Client-Ip: 86.169.91.147
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

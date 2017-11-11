@@ -1,0 +1,20 @@
+Date: Sat, 11 Nov 2017 16:11:22 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: 9i1gmrzz8sql3ra5emecrq8vii8n629
+Content-Disposition: inline;filename*=UTF-8''David_Trimble.jpg
+Last-Modified: Tue, 31 Mar 2015 16:34:39 GMT
+Etag: db039dd9cd52ffe214cf164e29c9faf6
+X-Timestamp: 1427819678.53107
+X-Trans-Id: txf8bd5c7cd78e44ff978b8-005a06f887
+X-Varnish: 155904076 157518856, 234069694 228623636, 58840768
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Accept-Ranges: bytes
+Age: 10402
+X-Cache: cp1071 hit/1, cp3047 hit/3, cp3035 miss
+X-Cache-Status: hit-local
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=11-Nov-2017;https=1
+X-Client-Ip: 86.169.91.147
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *

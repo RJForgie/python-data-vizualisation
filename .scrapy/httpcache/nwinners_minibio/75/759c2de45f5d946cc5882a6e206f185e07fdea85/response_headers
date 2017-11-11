@@ -1,0 +1,20 @@
+Date: Sat, 11 Nov 2017 16:11:25 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: 8r0otvdds4x6ewoscqtbxh20sb5lnbv
+Content-Disposition: inline;filename*=UTF-8''Eyvind.JPG
+Last-Modified: Sun, 20 Jul 2014 20:44:46 GMT
+Etag: dd6a0130edf984a4dda7eca620f166d7
+X-Timestamp: 1405889085.47267
+X-Trans-Id: tx26a398e9f176426c8b2e3-005a071ab2
+X-Varnish: 212733848, 160230015 162367203, 63976530
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Age: 1659
+X-Cache: cp1074 pass, cp3045 hit/1, cp3035 miss
+X-Cache-Status: hit-local
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=11-Nov-2017;https=1
+X-Client-Ip: 86.169.91.147
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

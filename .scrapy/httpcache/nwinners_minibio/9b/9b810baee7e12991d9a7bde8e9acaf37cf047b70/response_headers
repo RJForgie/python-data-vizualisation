@@ -1,0 +1,20 @@
+Date: Sat, 11 Nov 2017 16:11:41 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: p1p7pyq65xushbtuw7q6awzr1y7nc8j
+Content-Disposition: inline;filename*=UTF-8''Romain_Rolland-1914.jpg
+Last-Modified: Wed, 25 Dec 2013 16:03:19 GMT
+Etag: c1175ab0b319f4d317ec49e11b467004
+X-Timestamp: 1387987398.63504
+X-Trans-Id: tx0d44d85c8d674aeb8fdf9-005a065b33
+X-Varnish: 87610540 90385963, 233164135 226018730, 59005654 1007205112
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Age: 50695
+X-Cache: cp1048 hit/1, cp3035 hit/13, cp3035 hit/20
+X-Cache-Status: hit-front
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=11-Nov-2017;https=1
+X-Client-Ip: 86.169.91.147
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

@@ -1,0 +1,22 @@
+Date: Sat, 11 Nov 2017 12:55:52 GMT
+Content-Type: text/html; charset=UTF-8
+Server: mw1264.eqiad.wmnet
+X-Powered-By: HHVM/3.18.6-dev
+Link: </static/images/project-logos/wikidatawiki.png>;rel=preload;as=image
+Vary: Accept-Encoding,Cookie,Authorization
+X-Ua-Compatible: IE=Edge
+Content-Language: en
+Content-Encoding: gzip
+P3P: CP="This is not a P3P policy! See https://www.wikidata.org/wiki/Special:CentralAutoLogin/P3P for more info."
+X-Content-Type-Options: nosniff
+Backend-Timing: D=98163 t=1510404951996902
+X-Varnish: 993412940, 24827521, 442874964
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Accept-Ranges: bytes
+Age: 0
+X-Cache: cp1065 pass, cp3031 miss, cp3042 miss
+X-Cache-Status: miss
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: ns=0;page_id=36996;WMF-Last-Access=11-Nov-2017;WMF-Last-Access-Global=11-Nov-2017;https=1
+X-Client-Ip: 86.169.91.147
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate

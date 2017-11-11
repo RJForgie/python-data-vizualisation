@@ -1,0 +1,9 @@
+Date: Sat, 11 Nov 2017 12:17:38 GMT
+Server: Varnish
+X-Varnish: 406332456
+X-Cache: cp3042 int
+X-Cache-Status: int-front
+Set-Cookie: WMF-Last-Access=11-Nov-2017;Path=/;HttpOnly;secure;Expires=Wed, 13 Dec 2017 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=11-Nov-2017;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Wed, 13 Dec 2017 12:00:00 GMT
+X-Client-Ip: 86.169.91.147
+Location: https://en.wikipedia.org/wiki/Ilya_Frank
